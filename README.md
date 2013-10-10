@@ -2,7 +2,7 @@ Installation
 ===
 Open the Command Palette (cmd + shift + p) and select `Package Control: Add Repository`.
 
-Set the repo URL to: `https://git.hubteam.com/HubSpot/sublime-text-hpm` (leave out the .git)
+Set the repo URL to: `https://github.com/gusvargas/sublime-text-hpm` (leave out the .git)
 
 This plugin should then show up as an option when selecting `Package Control: Install Package`.
 
