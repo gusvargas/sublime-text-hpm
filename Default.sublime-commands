@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "HPM Install: Modifies project files to include package.",
+        "command": "hpm_install"
+    },
+    {
+        "caption": "HPM Require: hubspot.require a package.",
+        "command": "hpm_require"
+    },
+    {
+        "caption": "HPM Docs: Open the documentation for a package, if available.",
+        "command": "hpm_docs"
+    }
+]
